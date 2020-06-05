@@ -7,23 +7,11 @@ import * as franc from 'franc'
 
 // currently supported natural languages
 export type languageName =
-  | 'german'
   | 'english'
-  | 'italian'
-  | 'dutch'
-  | 'portugese'
-  | 'spanish'
-  | 'swedish'
 
 // just a few language codes of 'franc' mapped to 'nltk-stopwords'-keys for now
 const languageNameMapping = {
-  deu: 'german',
-  eng: 'english',
-  ita: 'italian',
-  nld: 'dutch',
-  por: 'portuguese',
-  spa: 'spanish',
-  swh: 'swedish',
+  eng: 'english'
 }
 
 // detect the language of a given string or word array

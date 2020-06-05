@@ -1,4 +1,4 @@
-# RAKE.js
+# RAKE.js (CRAKE)
 
 A pure JS implementation of the Rapid Automated Keyword Extraction (RAKE) algorithm. Put in any text corpus, get back a bunch of keyphrases and keywords.
 

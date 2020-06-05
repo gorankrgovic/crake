@@ -497,6 +497,7 @@ export default [
   'usually',
   'uucp',
   'v',
+  've',
   'value',
   'various',
   'very',
