@@ -28,7 +28,7 @@
     "@types/mocha": "^2.2.41",
     "@types/node": "^7.0.21",
     "chai": "^3.5.0",
-    "mocha": "^3.4.1",
+    "mocha": "^10.2.0",
     "mocha-typescript": "^1.1.2",
     "prettier": "^1.5.2",
     "source-map-support": "^0.4.15",
